@@ -13,7 +13,7 @@ Here are my key skills and competencies
 Here are the data science and data analytics tools I use efficiently
 
   <div align="center"> 
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=ffdd54" />
+    
     <img src="https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black" />
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-R-276DC3?&style=for-the-badge&logo=R&logoColor=white" />
