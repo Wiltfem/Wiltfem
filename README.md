@@ -7,7 +7,6 @@ Here are my key skills and competencies
 - Data Visualization
 - Dashboard and report creation 
 - Qualitative data analysis
-- Financial modeling
 - Git
 - Markdown
 ## 🛠️ **Tools**
@@ -49,30 +48,20 @@ Here are the data science and data analytics tools I use efficiently
   -  <b> Survey Data Analysis </b>: [Survey Data Analysis](https://github.com/Kunleiky/SURVEY-DATA-ANALYSIS-1)
 
 
-## 👨‍💻 **Articles**
-  Here are some of my articles
-  
-  -  <b> Power BI </b>: [Many-to-many Relationships in Power BI: Bridge Table to the Rescue](https://www.linkedin.com/pulse/many-to-many-relationships-power-bi-bridge-table-rescue-gabriel/)
-
-  -  <b> PL-SEM </b>: [PL-SEM: Indeed a Silver Bullet?](https://www.linkedin.com/pulse/pl-sem-method-analysis-indeed-silver-bullet-ibikunle-gabriel-tjs0f)
-
 
  ##  🌐 **Connect with Me**
- <a href="https://www.linkedin.com/in/aremutosin-william"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://kaggle.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://x.com/IBK_data"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
-
+https://www.linkedin.com/in/tosin-aremu-will?trk=contact-info
 
 
 
 
 ##  💫 **About Me**
 
-- 🔭 I’m currently working on Deep Learning Models and content creation for tech enthusiasts
+- 🔭 I’m currently working on Data Visualization and DAX
 - 🌱 I’m currently reading leadership and personal development books
 - 💬 Ask me about Data entry and data visualization 
-- 📫 How to reach me: [aremutosin233@gmail.com](mailto:ibikunlesgabriel@gmail.com)
-- ⚡ Fun fact about me: I love to travelling (change environment).
+- 📫 How to reach me: [aremutosin233@gmail.com]
+- ⚡ Fun fact about me: I love travelling (change environment).
 
 
