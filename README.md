@@ -10,10 +10,16 @@ Here are my key skills and competencies
 - Git
 - Markdown
 ## 🛠️ **Tools**
-Here are the data science and data analytics tools I use efficiently
+Here are the data science and data analytics tools I use efficiently;
+
+Powerbi
+SPSS 
+Excel
+SQL
 
 
   ## 👨‍💻 **
+
 
 
 
