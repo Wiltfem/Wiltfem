@@ -11,7 +11,7 @@ Here are my key skills and competencies
 - Markdown
 ## 🛠️ **Tools**
 Here are the data science and data analytics tools I use efficiently;
-  ## 👨‍💻 **
+ 
 <div>
     <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black" />
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
@@ -21,11 +21,10 @@ Here are the data science and data analytics tools I use efficiently;
     <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
 </div>
 
-
+ ## 👨‍💻 **project** 
  ##  🌐 **Connect with Me**
 
-https://www.linkedin.com/in/tosin-aremu-will?trk=contact-info
-
+www.linkedin.com/in/tosin-aremu-will
 
 
 
