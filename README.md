@@ -24,8 +24,7 @@ Here are the data science and data analytics tools I use efficiently;
  ## 👨‍💻 **project** 
  ##  🌐 **Connect with Me**
 
-www.linkedin.com/in/tosin-aremu-will
-
+<a href="https://www.linkedin.com/in/tosin-aremu-will"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ##  💫 **About Me**
