@@ -11,15 +11,16 @@ Here are my key skills and competencies
 - Markdown
 ## 🛠️ **Tools**
 Here are the data science and data analytics tools I use efficiently;
-
+  ## 👨‍💻 **
+<div align="center"> 
     <img src="https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black" />
         <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
-SPSS 
+    <img src="https://img.shields.io/badge/-SPSS-003399?&style=for-the-badge&logoColor=white" />
 Excel
-SQL
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SPSS-003399?&style=for-the-badge&logoColor=white" />
 
-
-  ## 👨‍💻 **
 
 
 
