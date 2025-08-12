@@ -12,7 +12,8 @@ Here are my key skills and competencies
 ## 🛠️ **Tools**
 Here are the data science and data analytics tools I use efficiently;
 
-Powerbi
+    <img src="https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
 SPSS 
 Excel
 SQL
